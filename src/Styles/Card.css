@@ -1,0 +1,7 @@
+.card img {
+  width: 260px !important;
+  max-height: 200px !important;
+  min-height: 200px !important;
+  height: auto;
+  cursor: pointer;
+}
